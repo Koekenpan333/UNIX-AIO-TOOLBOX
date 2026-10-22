@@ -1,0 +1,23 @@
+platform	package	display-name	description
+macos	firefox	Firefox	Web browser
+macos	google-chrome	Google Chrome	Web browser
+macos	visual-studio-code	Visual Studio Code	Code editor
+macos	iterm2	iTerm2	Terminal emulator
+macos	vlc	VLC	Media player
+macos	spotify	Spotify	Music streaming client
+macos	obs	OBS Studio	Recording and streaming
+macos	7zip	7-Zip	Archive utility
+macos	wezterm	WezTerm	GPU-accelerated terminal
+macos	rectangle	Rectangle	Window management
+linux	firefox	Firefox	Web browser
+linux	chromium	Chromium	Web browser
+linux	code	Visual Studio Code	Code editor (availability varies by distro)
+linux	vlc	VLC	Media player
+linux	obs-studio	OBS Studio	Recording and streaming
+linux	git	Git	Version control
+linux	curl	curl	Command-line data transfer
+linux	flatpak:com.spotify.Client	Spotify	Music streaming client (Flatpak)
+linux	flatpak:org.videolan.VLC	VLC (Flatpak)	Media player (Flatpak)
+linux	flatpak:com.visualstudio.code	Visual Studio Code (Flatpak)	Code editor (Flatpak)
+both	git	Git	Version control system
+both	wget	Wget	Command-line downloader
